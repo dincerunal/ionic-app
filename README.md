@@ -4,7 +4,6 @@ This application is purely a dincerunal demo of the Ionic Framework and Angular.
 
 ## Table of Contents
 - [Getting Started](#getting-started)
-- [Progressive Web App](#progressive-web-app)
 - [Android](#android)
 - [iOS](#ios)
 
