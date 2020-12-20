@@ -31,6 +31,6 @@ _Note: See [How to Prevent Permissions Errors](https://docs.npmjs.com/getting-st
 
 
 ### If this project help you reduce time to develop, you can give me a cup of coffee :)
-Bitcoin  = "1LA3mPWXY8JSBcP6juSbcwzizxALuU5Ej6"
-Ethereum = "0xde50286c4a7361c6578eab8b70b1f545eaa2b51d"
-Tether   = "0xde50286c4a7361c6578eab8b70b1f545eaa2b51d"
+* Bitcoin  = "1LA3mPWXY8JSBcP6juSbcwzizxALuU5Ej6"
+* Ethereum = "0xde50286c4a7361c6578eab8b70b1f545eaa2b51d"
+* Tether   = "0xde50286c4a7361c6578eab8b70b1f545eaa2b51d"
