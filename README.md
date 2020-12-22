@@ -34,6 +34,6 @@ _Note: See [How to Prevent Permissions Errors](https://docs.npmjs.com/getting-st
 
 ### If this project help you reduce time to develop, you can give me a cup of coffee :)
 
-* [![Donate](https://img.shields.io/badge/Donate-Bitcoin-green.svg)]  = "1LA3mPWXY8JSBcP6juSbcwzizxALuU5Ej6"
+* [![Donate](https://img.shields.io/keybase/btc/1LA3mPWXY8JSBcP6juSbcwzizxALuU5Ej6)] 
 * [![Donate](https://img.shields.io/badge/Donate-Ethereum-green.svg)] = "0xde50286c4a7361c6578eab8b70b1f545eaa2b51d"
 * [![Donate](https://img.shields.io/badge/Donate-Tether-green.svg)]   = "0xde50286c4a7361c6578eab8b70b1f545eaa2b51d"
