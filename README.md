@@ -30,7 +30,10 @@ _Note: See [How to Prevent Permissions Errors](https://docs.npmjs.com/getting-st
 1. Run `ionic cordova run ios --prod`
 
 
+
+
 ### If this project help you reduce time to develop, you can give me a cup of coffee :)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)]
 * Bitcoin  = "1LA3mPWXY8JSBcP6juSbcwzizxALuU5Ej6"
 * Ethereum = "0xde50286c4a7361c6578eab8b70b1f545eaa2b51d"
 * Tether   = "0xde50286c4a7361c6578eab8b70b1f545eaa2b51d"
